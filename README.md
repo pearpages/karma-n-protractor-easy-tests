@@ -1,2 +1,3 @@
 # karma-n-protractor-easy-tests
-Very basic example tests
+
+Repository with basic example tests as samples.
